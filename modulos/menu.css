@@ -14,6 +14,9 @@ nav a{
     color: black;
     font-size: 1.2rem;
     transition: 1s;
+
+    display: flex;
+    justify-content: space-between;
 }
 nav a:hover{
     width: 90%;
