@@ -1,0 +1,37 @@
+articulo6{
+    gap: 1rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.titulo{
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    color: lightgreen;
+}
+.titulO{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: lightcoral;
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.titulo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: lightcoral;
+}
+.texto2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.img{
+    height: 20rem;
+    width: 20rem;
+    margin: auto;
+    display: block;
+}
